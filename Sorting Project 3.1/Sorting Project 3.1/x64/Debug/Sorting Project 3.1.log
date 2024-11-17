@@ -1,0 +1,5 @@
+﻿  functions.cpp
+C:\Users\ncare\source\repos\Sorting Project 3.1\Sorting Project 3.1\functions.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+  Generating Code...
+  Sorting Project 3.1.vcxproj -> C:\Users\ncare\source\repos\Sorting Project 3.1\x64\Debug\Sorting Project 3.1.exe
